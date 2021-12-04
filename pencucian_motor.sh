@@ -1,5 +1,9 @@
 #! /bin/bash
 
+# RIZAL SAIFULLOH FATAH
+# 191057005
+# IST AKPRIND YOGYAKARTA
+
 ## fungsi untuk menambah/mencatat pendaftaran
 addAntrian()
 {
